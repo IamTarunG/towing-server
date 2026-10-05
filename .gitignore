@@ -1,0 +1,22 @@
+# Rust build artifacts
+/target/
+
+# Local model files
+/models/
+
+# Test request files
+request.json
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
